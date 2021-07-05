@@ -1,18 +1,18 @@
 # Oi! Eu sou o José Pereira de Andrade Junior👋
  <div>
 	<a href="https://github.com/joseprandj">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseprandj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprandj&layout=compact&langs_count=16&theme=dracula"/>
+	<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joseprandj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprandj&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## Sobre:
-🙃 23 anos 
-🙃 Apelido: Junior
-🙃 Nickname: Saloenus
-👨🏾‍💻 Análise e Desenvolvimento de Sistemas 
-👨🏾‍💻 Dev. Front-end
-🚀 Futuro Dev. Full Stack
- ⌚️ No tempo livre gosto de estudar, escutar música, jogar, assistir filmes e séries.
+🙃 23 anos <br>
+🙃 Apelido: Junior <br>
+🙃 Nickname: Saloenus <br>
+👨🏾‍💻 Análise e Desenvolvimento de Sistemas <br>
+👨🏾‍💻 Dev. Front-end <br>
+🚀 Futuro Dev. Full Stack <br>
+⌚️ No tempo livre gosto de estudar, escutar música, jogar, assistir filmes e séries.
 
 <div>
 <img alt="joseprandj-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
