@@ -11,7 +11,6 @@
 🙃 Nickname: Saloenus <br>
 👨🏾‍💻 Análise e Desenvolvimento de Sistemas <br>
 👨🏾‍💻 Dev. Front-end <br>
-🚀 Futuro Dev. Full Stack <br>
 ⌚️ No tempo livre gosto de estudar, escutar música, jogar, assistir filmes e séries.
 
 <div>
