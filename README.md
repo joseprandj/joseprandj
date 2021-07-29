@@ -1,8 +1,8 @@
 # Oi! Eu sou o José Pereira de Andrade Junior👋
  <div>
 	<a href="https://github.com/joseprandj">
-	<img alt="joseprandj" height="165em" src="https://github-readme-stats.vercel.app/api?username=joseprandj&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-	 <img alt="joseprandj" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprandj&layout=compact&langs_count=16&theme=gotham"/>
+	<img alt="joseprandj" height="200rem" src="https://github-readme-stats.vercel.app/api?username=joseprandj&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+	 <img alt="joseprandj" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprandj&layout=default&langs_count=5&theme=gotham"/>
 </div>
 
 ## Sobre:
