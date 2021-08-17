@@ -2,7 +2,7 @@
  <div>
 	<a href="https://github.com/joseprandj">
 	<img alt="joseprandj" height="170rem" src="https://github-readme-stats.vercel.app/api?username=joseprandj&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-	 <img alt="joseprandj" height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprandj&layout=default&langs_count=5&theme=gotham&card_width=700rem" />
+	 <img alt="joseprandj" height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprandj&layout=default&langs_count=5&theme=gotham&card_width=600rem" />
 </div>
 
 ## Sobre:
