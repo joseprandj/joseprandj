@@ -14,7 +14,7 @@
 ⌚️ No tempo livre gosto de estudar, treinar, escutar música, jogar, assistir filmes e séries.
 
 <div>
-	<img alt="joseprandj-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/java.svg">
+	<img alt="joseprandj-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img alt="joseprandj-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img alt="joseprandj-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img alt="joseprandj-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
