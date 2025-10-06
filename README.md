@@ -17,7 +17,7 @@
 	<img alt="HTML Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img alt="CSS Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img alt="Js Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img alt="Java Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-original.svg">
+	<img alt="Java Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg">
 	<img align="center" alt="Spring Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg">
 </div>
 
