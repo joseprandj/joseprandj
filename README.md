@@ -17,13 +17,13 @@
 	<img alt="joseprandj-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img alt="joseprandj-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img alt="joseprandj-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img alt="joseprandj-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<img alt="joseprandj-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javariginal.svg">
+	<img align="center" alt="joseprandj-Spring" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg">
 </div>
 
 ## Objetivos: 
 <div>
-	<img align="center" alt="joseprandj-React" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg">
-	<img align="center" alt="joseprandj-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+	<img align="center" alt="joseprandj-NodeJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 ## Contato:
