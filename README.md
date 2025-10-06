@@ -14,16 +14,16 @@
 ⌚️ No tempo livre gosto de estudar, treinar, escutar música, jogar, assistir filmes e séries.
 
 <div>
-	<img alt="joseprandj-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img alt="joseprandj-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img alt="joseprandj-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img alt="joseprandj-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javariginal.svg">
-	<img align="center" alt="joseprandj-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg">
+	<img alt="HTML Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img alt="CSS Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img alt="Js Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img alt="Java Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-original.svg">
+	<img align="center" alt="Spring Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg">
 </div>
 
 ## Objetivos: 
 <div>
-	<img align="center" alt="joseprandj-NodeJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+	<img align="center" alt="Nodejs Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 ## Contato:
