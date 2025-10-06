@@ -2,7 +2,7 @@
  <div>
 	<a href="https://github.com/joseprandj">
 	<img alt="joseprandj" height="170rem" src="https://github-readme-stats.vercel.app/api?username=joseprandj&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-<!-- 	<img alt="joseprandj" height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprandj&layout=default&langs_count=5&theme=gotham&card_width=600rem" /> -->
+	<!-- <img alt="joseprandj" height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseprandj&layout=default&langs_count=5&theme=gotham&card_width=600rem" /> -->
 </div>
 
 ## Sobre:
@@ -14,10 +14,10 @@
 ⌚️ No tempo livre gosto de estudar, treinar, escutar música, jogar, assistir filmes e séries.
 
 <div>
-	<img alt="HTML Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img alt="CSS Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img alt="Js Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img alt="Java Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg">
+	<img align="center" alt="HTML Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img align="center" alt="CSS Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img align="center" alt="Js Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="Java Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg">
 	<img align="center" alt="Spring Icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg">
 </div>
 
